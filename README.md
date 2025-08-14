@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game (Console-Based)
+# Tic-Tac-Toe Game 
 
 ## 📌 Overview
 This is a simple **two-player Tic-Tac-Toe game** built using **C++ and Object-Oriented Programming (OOP)**.  
